@@ -8,7 +8,7 @@ I specialize in translating UI/UX designs and business requirements into user-fr
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 💻 5+ years of experience in Frontend & WordPress Development
 * 🌐 Experienced in building responsive websites, landing pages and eCommerce platforms
